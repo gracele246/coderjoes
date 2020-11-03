@@ -14,7 +14,7 @@ This will give the newest foods we discovered and our most famous recipes.
 ## Healthy Lunches & Dinners
 This is where you can find recipes to healthy lunches and dinners. You can get discriptions of the foods and recipes.
 
-## Tast Desserts
+## Tasty Desserts
 This is where you can find recipes and descriptions of our most famous desserts.
 
 # Other
