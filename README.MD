@@ -5,7 +5,7 @@ Lola  -  I helped grace add to the "Whats new" page, helped with out logo for Co
 Ryan  -  I created the read.me and added links to the youtube icon and main store.
 Grace  -  I was able to work on the Coder Joe sign and add some links with Brayden to our project. I am also working with Lola on the What's New on the main page and working on the home page with navigation.
 
-# Coder Joe's
+# Coder Joe
 This is our first website. This is a store where you can get healthy food options and are given recipes to many dishes. We also linked our project concept, plan, and journals.
 
 ## Main store
