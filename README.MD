@@ -33,5 +33,5 @@ We used Github to share code so we could all make our own adjustments without me
 We all tried to switch to this because Repl was giving us problems. Brayden switched from VS Code to InteliJ. We all followed along with the video from Dane in class this week
 ## Usage of Flask and routes
 We used flask to make our webiste and we had many app.route so that when you click on the word, it brings you to a new webpage
-## Usage of bootstra
+## Usage of bootstrap
 We used bootstrap while making our dropdown menu. 
