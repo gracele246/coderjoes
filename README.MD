@@ -20,7 +20,7 @@ This is where you can find recipes and descriptions of our most famous desserts.
 # Other
 Whenever your bored with shopping or looking for recipes, you can look at codeing jokes and different coding videos for joy and entertainment! 
 
-## Youtube and Shopping Cart Icons
+## Youtube and Shopping Cart Icon
 You can click on the youtube icon that will take you to a page that will provide you with easy to make dishes. The shopping cart icon is where you can add recipes and foods you want to buy to your bag.
 
 
