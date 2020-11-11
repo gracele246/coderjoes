@@ -1,4 +1,4 @@
-# What we all did
+# What we all di
 Brayden  -  I helepd make this README.md and I added some pictures to this website. I also added links and I changed the github icon to take you to my github and the youtube icon to take you to YouTube.com. i added pictures to the static file so that we can use them. 
 Billy  -  added to the read me and was able to customize the buttons and links to fit our project.The 2 parts I was assigned was the lunch and dessert pages and I did all of the code on those two templates. I also created our shopping bag icon and template.
 Lola  -  I helped grace add to the "Whats new" page, helped with out logo for Coder Joes and added to the READ.ME. I am also working on the dinner page by adding prices, pictures, and recipes.
